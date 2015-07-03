@@ -1,3 +1,5 @@
+# Alt Text Bot for Firefox
+
 Alt Text Bot is a browser extension that adds descriptions to images on the web for people who are blind, so that their voices can be a part of the online conversation.
 
 The web is centered around in discussion, and everyone should be have a voice. Right now it's not always true. People who are blind are being excluded from conversations on sites like Twitter and Facebook because so much of the content there is images without descriptions. These are blank spaces for blind people that make it harder for them to get involved.
